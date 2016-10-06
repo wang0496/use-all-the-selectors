@@ -1,45 +1,59 @@
-body{
+body {
   background-color: #fdf6e3;
 }
-header,footer{
+
+header, footer {
   font-size: 1.5rem;
 }
-nav ul{
+
+nav ul {
   font-family: sans-serif;
 }
-.logo{
+
+.logo {
   text-transform: uppercase;
 }
-.wrapper{
+
+.wrapper {
   background-color: #eee8d5;
 }
-#contents,#favs,#facts,#types{
+
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
-.wrapper .dfn{
+
+.wrapper .dfn {
   background-color: #b58900;
 }
-.dfn strong{
+
+.dfn strong {
   color: #fff;
 }
-html mark{
+
+html mark {
   background-color: #719e07;
 }
-.wang{
+
+ul li:last-child {
   background-color: #2694d8;
 }
-ol li:first-child{
+
+ol li:first-child {
   color: #719e47;
 }
-ol li:last-child{
+
+ol li:last-child {
   color: #2aa198;
 }
-.types li:nth-child(odd){
+
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
-.types li:nth-child(even){
+
+.types li:nth-child(even) {
   background-color: #586e75;
 }
-.types li:nth-child(3n+0){
+
+.types li:nth-child(3n+0) {
   background-color: #d04b16;
 }

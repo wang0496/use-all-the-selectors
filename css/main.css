@@ -53,3 +53,7 @@ ol li:last-child{
 .types li:nth-child(even){
   background-color: #586e75;
 }
+
+.types li:nth-child(3n+0){
+  background-color: #d04b16;
+}
